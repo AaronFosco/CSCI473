@@ -1,0 +1,15 @@
+C:\Users\Marco\Documents\NIU_2019_Classes\CSCI 473\Assign2\Assign2\Assign2\obj\Debug\Assign2.csprojAssemblyReference.cache
+C:\Users\Marco\Documents\NIU_2019_Classes\CSCI 473\Assign2\Assign2\Assign2\obj\Debug\Assign2.Form1.resources
+C:\Users\Marco\Documents\NIU_2019_Classes\CSCI 473\Assign2\Assign2\Assign2\obj\Debug\Assign2.Properties.Resources.resources
+C:\Users\Marco\Documents\NIU_2019_Classes\CSCI 473\Assign2\Assign2\Assign2\obj\Debug\Assign2.csproj.GenerateResource.cache
+C:\Users\Marco\Documents\NIU_2019_Classes\CSCI 473\Assign2\Assign2\Assign2\obj\Debug\Assign2.csproj.CoreCompileInputs.cache
+C:\Users\Aaron\source\repos\Assign2\Assign2\obj\Debug\Assign2.csprojAssemblyReference.cache
+C:\Users\Aaron\source\repos\Assign2\Assign2\obj\Debug\Assign2.Properties.Resources.resources
+C:\Users\Aaron\source\repos\Assign2\Assign2\obj\Debug\Assign2.csproj.GenerateResource.cache
+C:\Users\Aaron\source\repos\Assign2\Assign2\obj\Debug\Assign2.csproj.CoreCompileInputs.cache
+C:\Users\Aaron\source\repos\Assign2\Assign2\bin\Debug\Assign2.exe.config
+C:\Users\Aaron\source\repos\Assign2\Assign2\bin\Debug\Assign2.exe
+C:\Users\Aaron\source\repos\Assign2\Assign2\bin\Debug\Assign2.pdb
+C:\Users\Aaron\source\repos\Assign2\Assign2\obj\Debug\Assign2.MainForm.resources
+C:\Users\Aaron\source\repos\Assign2\Assign2\obj\Debug\Assign2.exe
+C:\Users\Aaron\source\repos\Assign2\Assign2\obj\Debug\Assign2.pdb

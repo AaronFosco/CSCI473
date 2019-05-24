@@ -1,0 +1,14 @@
+C:\Users\Aaron\source\repos\Assign6\Assign6\bin\Debug\Assign6.exe.config
+C:\Users\Aaron\source\repos\Assign6\Assign6\bin\Debug\Assign6.exe
+C:\Users\Aaron\source\repos\Assign6\Assign6\bin\Debug\Assign6.pdb
+C:\Users\Aaron\source\repos\Assign6\Assign6\obj\Debug\Assign6.csprojAssemblyReference.cache
+C:\Users\Aaron\source\repos\Assign6\Assign6\obj\Debug\Assign6.Form1.resources
+C:\Users\Aaron\source\repos\Assign6\Assign6\obj\Debug\Assign6.Properties.Resources.resources
+C:\Users\Aaron\source\repos\Assign6\Assign6\obj\Debug\Assign6.csproj.GenerateResource.cache
+C:\Users\Aaron\source\repos\Assign6\Assign6\obj\Debug\Assign6.csproj.CoreCompileInputs.cache
+C:\Users\Aaron\source\repos\Assign6\Assign6\obj\Debug\Assign6.exe
+C:\Users\Aaron\source\repos\Assign6\Assign6\obj\Debug\Assign6.pdb
+C:\Users\Aaron\source\repos\Assign6\Assign6\obj\Debug\Assign6.Form2.resources
+C:\Users\Aaron\source\repos\Assign6\Assign6\obj\Debug\Assign6.Form3.resources
+C:\Users\Aaron\source\repos\Assign6\Assign6\obj\Debug\Assign6.Form4.resources
+C:\Users\Aaron\source\repos\Assign6\Assign6\obj\Debug\Assign6.Form5.resources

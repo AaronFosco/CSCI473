@@ -1,0 +1,40 @@
+C:\Users\Marco\source\repos\Assign5\Assign5\bin\Debug\Assign5.exe.config
+C:\Users\Marco\source\repos\Assign5\Assign5\bin\Debug\Assign5.exe
+C:\Users\Marco\source\repos\Assign5\Assign5\bin\Debug\Assign5.pdb
+C:\Users\Marco\source\repos\Assign5\Assign5\obj\Debug\Assign5.csprojAssemblyReference.cache
+C:\Users\Marco\source\repos\Assign5\Assign5\obj\Debug\Assign5.Form1.resources
+C:\Users\Marco\source\repos\Assign5\Assign5\obj\Debug\Assign5.Properties.Resources.resources
+C:\Users\Marco\source\repos\Assign5\Assign5\obj\Debug\Assign5.csproj.GenerateResource.cache
+C:\Users\Marco\source\repos\Assign5\Assign5\obj\Debug\Assign5.csproj.CoreCompileInputs.cache
+C:\Users\Marco\source\repos\Assign5\Assign5\obj\Debug\Assign5.exe
+C:\Users\Marco\source\repos\Assign5\Assign5\obj\Debug\Assign5.pdb
+C:\Users\Aaron\source\repos\Assign 5\bin\Debug\Assign5.exe.config
+C:\Users\Aaron\source\repos\Assign 5\bin\Debug\Assign5.exe
+C:\Users\Aaron\source\repos\Assign 5\bin\Debug\Assign5.pdb
+C:\Users\Aaron\source\repos\Assign 5\obj\Debug\Assign5.csprojAssemblyReference.cache
+C:\Users\Aaron\source\repos\Assign 5\obj\Debug\Assign5.Form1.resources
+C:\Users\Aaron\source\repos\Assign 5\obj\Debug\Assign5.Properties.Resources.resources
+C:\Users\Aaron\source\repos\Assign 5\obj\Debug\Assign5.csproj.GenerateResource.cache
+C:\Users\Aaron\source\repos\Assign 5\obj\Debug\Assign5.csproj.CoreCompileInputs.cache
+C:\Users\Aaron\source\repos\Assign 5\obj\Debug\Assign5.exe
+C:\Users\Aaron\source\repos\Assign 5\obj\Debug\Assign5.pdb
+C:\Users\Marco\Documents\NIU_2019_Classes\CSCI 473\CSCI-473-AaronFosco-Assign5\CSCI-473-AaronFosco-Assign5\Assign 5\bin\Debug\Assign5.exe.config
+C:\Users\Marco\Documents\NIU_2019_Classes\CSCI 473\CSCI-473-AaronFosco-Assign5\CSCI-473-AaronFosco-Assign5\Assign 5\bin\Debug\Assign5.exe
+C:\Users\Marco\Documents\NIU_2019_Classes\CSCI 473\CSCI-473-AaronFosco-Assign5\CSCI-473-AaronFosco-Assign5\Assign 5\bin\Debug\Assign5.pdb
+C:\Users\Marco\Documents\NIU_2019_Classes\CSCI 473\CSCI-473-AaronFosco-Assign5\CSCI-473-AaronFosco-Assign5\Assign 5\obj\Debug\Assign5.csprojAssemblyReference.cache
+C:\Users\Marco\Documents\NIU_2019_Classes\CSCI 473\CSCI-473-AaronFosco-Assign5\CSCI-473-AaronFosco-Assign5\Assign 5\obj\Debug\Assign5.Form1.resources
+C:\Users\Marco\Documents\NIU_2019_Classes\CSCI 473\CSCI-473-AaronFosco-Assign5\CSCI-473-AaronFosco-Assign5\Assign 5\obj\Debug\Assign5.Properties.Resources.resources
+C:\Users\Marco\Documents\NIU_2019_Classes\CSCI 473\CSCI-473-AaronFosco-Assign5\CSCI-473-AaronFosco-Assign5\Assign 5\obj\Debug\Assign5.csproj.GenerateResource.cache
+C:\Users\Marco\Documents\NIU_2019_Classes\CSCI 473\CSCI-473-AaronFosco-Assign5\CSCI-473-AaronFosco-Assign5\Assign 5\obj\Debug\Assign5.csproj.CoreCompileInputs.cache
+C:\Users\Marco\Documents\NIU_2019_Classes\CSCI 473\CSCI-473-AaronFosco-Assign5\CSCI-473-AaronFosco-Assign5\Assign 5\obj\Debug\Assign5.exe
+C:\Users\Marco\Documents\NIU_2019_Classes\CSCI 473\CSCI-473-AaronFosco-Assign5\CSCI-473-AaronFosco-Assign5\Assign 5\obj\Debug\Assign5.pdb
+D:\xampp\documents\NIU stuff\csci473\repos\Assign 5\bin\Debug\Assign5.exe.config
+D:\xampp\documents\NIU stuff\csci473\repos\Assign 5\bin\Debug\Assign5.exe
+D:\xampp\documents\NIU stuff\csci473\repos\Assign 5\bin\Debug\Assign5.pdb
+D:\xampp\documents\NIU stuff\csci473\repos\Assign 5\obj\Debug\Assign5.csprojAssemblyReference.cache
+D:\xampp\documents\NIU stuff\csci473\repos\Assign 5\obj\Debug\Assign5.Form1.resources
+D:\xampp\documents\NIU stuff\csci473\repos\Assign 5\obj\Debug\Assign5.Properties.Resources.resources
+D:\xampp\documents\NIU stuff\csci473\repos\Assign 5\obj\Debug\Assign5.csproj.GenerateResource.cache
+D:\xampp\documents\NIU stuff\csci473\repos\Assign 5\obj\Debug\Assign5.csproj.CoreCompileInputs.cache
+D:\xampp\documents\NIU stuff\csci473\repos\Assign 5\obj\Debug\Assign5.exe
+D:\xampp\documents\NIU stuff\csci473\repos\Assign 5\obj\Debug\Assign5.pdb

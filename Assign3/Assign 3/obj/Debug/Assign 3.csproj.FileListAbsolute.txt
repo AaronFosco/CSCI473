@@ -1,0 +1,10 @@
+C:\Users\Aaron\source\repos\Assign 3\Assign 3\obj\Debug\Assign 3.csprojAssemblyReference.cache
+C:\Users\Aaron\source\repos\Assign 3\Assign 3\obj\Debug\Assign 3.csproj.GenerateResource.cache
+C:\Users\Aaron\source\repos\Assign 3\Assign 3\obj\Debug\Assign 3.csproj.CoreCompileInputs.cache
+C:\Users\Aaron\source\repos\Assign 3\Assign 3\obj\Debug\Assign3.Properties.Resources.resources
+C:\Users\Aaron\source\repos\Assign 3\Assign 3\bin\Debug\Assign3.exe.config
+C:\Users\Aaron\source\repos\Assign 3\Assign 3\bin\Debug\Assign3.exe
+C:\Users\Aaron\source\repos\Assign 3\Assign 3\bin\Debug\Assign3.pdb
+C:\Users\Aaron\source\repos\Assign 3\Assign 3\obj\Debug\Assign3.MainForm.resources
+C:\Users\Aaron\source\repos\Assign 3\Assign 3\obj\Debug\Assign3.exe
+C:\Users\Aaron\source\repos\Assign 3\Assign 3\obj\Debug\Assign3.pdb
